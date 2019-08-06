@@ -40,7 +40,7 @@ class ReducerInfo extends React.Component {
                     </div>
                 </div>
                 <div className="eight wide column">
-                    <div className="ui segment" ref={div => this.cards = div}>
+                    <div className="ui segment" ref={div => this.cards =  div}>
                     <div className="ui internally celled grid">
                             <div className="six wide column">
                                 <i className="massive tasks icon"></i>
